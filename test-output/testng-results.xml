@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-03T13:29:21 IST" name="Default suite" finished-at="2020-11-03T13:29:52 IST" duration-ms="31040">
+    <groups>
+    </groups>
+    <test started-at="2020-11-03T13:29:21 IST" name="Default test" finished-at="2020-11-03T13:29:52 IST" duration-ms="31040">
+      <class name="com.api.automation.DD.Auth2.PMI_chatBot_response">
+        <test-method signature="testPostData(java.lang.String, java.lang.String)[pri:0, instance:com.api.automation.DD.Auth2.PMI_chatBot_response@73ee04c8]" started-at="2020-11-03T13:29:23 IST" name="testPostData" data-provider="GetRequest" finished-at="2020-11-03T13:29:28 IST" duration-ms="5060" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[what is the overall productivity of Sector-29]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Productivity of locality Sector 29 in 2020 is 15.4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostData -->
+        <test-method signature="testPostData(java.lang.String, java.lang.String)[pri:0, instance:com.api.automation.DD.Auth2.PMI_chatBot_response@73ee04c8]" started-at="2020-11-03T13:29:28 IST" name="testPostData" data-provider="GetRequest" finished-at="2020-11-03T13:29:31 IST" duration-ms="2319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tell me Productivity of sector-14 in jan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Productivity of locality Sector 14 in January 2020 is 29.3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostData -->
+        <test-method signature="testPostData(java.lang.String, java.lang.String)[pri:0, instance:com.api.automation.DD.Auth2.PMI_chatBot_response@73ee04c8]" started-at="2020-11-03T13:29:31 IST" name="testPostData" data-provider="GetRequest" finished-at="2020-11-03T13:29:33 IST" duration-ms="2558" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Productivity of sector-29 in jan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[No Data available for this query.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostData -->
+        <test-method signature="testPostData(java.lang.String, java.lang.String)[pri:0, instance:com.api.automation.DD.Auth2.PMI_chatBot_response@73ee04c8]" started-at="2020-11-03T13:29:33 IST" name="testPostData" data-provider="GetRequest" finished-at="2020-11-03T13:29:36 IST" duration-ms="2545" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Productivity of sector-14 in jan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Productivity of locality Sector 14 in January 2020 is 29.3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostData -->
+        <test-method signature="testPostData(java.lang.String, java.lang.String)[pri:0, instance:com.api.automation.DD.Auth2.PMI_chatBot_response@73ee04c8]" started-at="2020-11-03T13:29:36 IST" name="testPostData" data-provider="GetRequest" finished-at="2020-11-03T13:29:38 IST" duration-ms="2263" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Productivity of sector-29 in Q1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Productivity of locality Sector 29 in Q1 2020 is 15.4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostData -->
+        <test-method signature="testPostData(java.lang.String, java.lang.String)[pri:0, instance:com.api.automation.DD.Auth2.PMI_chatBot_response@73ee04c8]" started-at="2020-11-03T13:29:38 IST" name="testPostData" data-provider="GetRequest" finished-at="2020-11-03T13:29:40 IST" duration-ms="2460" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[What is the productivity of sector-29]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Productivity of locality Sector 29 in 2020 is 15.4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostData -->
+        <test-method signature="testPostData(java.lang.String, java.lang.String)[pri:0, instance:com.api.automation.DD.Auth2.PMI_chatBot_response@73ee04c8]" started-at="2020-11-03T13:29:40 IST" name="testPostData" data-provider="GetRequest" finished-at="2020-11-03T13:29:43 IST" duration-ms="2348" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[What is the productivity of sector-14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Productivity of locality Sector 14 in 2020 is 22.9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostData -->
+        <test-method signature="testPostData(java.lang.String, java.lang.String)[pri:0, instance:com.api.automation.DD.Auth2.PMI_chatBot_response@73ee04c8]" started-at="2020-11-03T13:29:43 IST" name="testPostData" data-provider="GetRequest" finished-at="2020-11-03T13:29:45 IST" duration-ms="2567" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tell me the productivity of sector-29 for LAS24]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Productivity of locality Sector 29 for LAS24 in 2020 is 3.9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostData -->
+        <test-method signature="testPostData(java.lang.String, java.lang.String)[pri:0, instance:com.api.automation.DD.Auth2.PMI_chatBot_response@73ee04c8]" started-at="2020-11-03T13:29:45 IST" name="testPostData" data-provider="GetRequest" finished-at="2020-11-03T13:29:48 IST" duration-ms="2346" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[What will be the productivity of the RF in sector-29]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Productivity of locality Sector 29 for RF in 2020 is 12.3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostData -->
+        <test-method signature="testPostData(java.lang.String, java.lang.String)[pri:0, instance:com.api.automation.DD.Auth2.PMI_chatBot_response@73ee04c8]" started-at="2020-11-03T13:29:48 IST" name="testPostData" data-provider="GetRequest" finished-at="2020-11-03T13:29:50 IST" duration-ms="2373" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[What is the productivity of LTN in the sector-29 in the month of jan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[No Data available for this query.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostData -->
+        <test-method signature="testPostData(java.lang.String, java.lang.String)[pri:0, instance:com.api.automation.DD.Auth2.PMI_chatBot_response@73ee04c8]" started-at="2020-11-03T13:29:50 IST" name="testPostData" data-provider="GetRequest" finished-at="2020-11-03T13:29:52 IST" duration-ms="2443" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[What is the productivity of sector-14 for the LAS24 for LTN in the month of jan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Productivity of locality Sector 14 for LTN for LAS24 in January 2020 is 5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostData -->
+      </class> <!-- com.api.automation.DD.Auth2.PMI_chatBot_response -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
